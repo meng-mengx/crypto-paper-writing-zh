@@ -2,7 +2,7 @@
 
 ## 段落、句子与数学表达
 
-通用表达按[共享方法](../../../references/academic-methods.md#段落句子与数学表达)。
+通用表达按[段落、句子与数学表达](../../../references/academic-methods.md#段落句子与数学表达)。
 
 ### 段落逻辑与衔接
 
